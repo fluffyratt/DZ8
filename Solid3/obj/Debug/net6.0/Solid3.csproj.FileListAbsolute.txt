@@ -1,0 +1,15 @@
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\bin\Debug\net6.0\Solid3.exe
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\bin\Debug\net6.0\Solid3.deps.json
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\bin\Debug\net6.0\Solid3.runtimeconfig.json
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\bin\Debug\net6.0\Solid3.dll
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\bin\Debug\net6.0\Solid3.pdb
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\obj\Debug\net6.0\Solid3.csproj.AssemblyReference.cache
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\obj\Debug\net6.0\Solid3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\obj\Debug\net6.0\Solid3.AssemblyInfoInputs.cache
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\obj\Debug\net6.0\Solid3.AssemblyInfo.cs
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\obj\Debug\net6.0\Solid3.csproj.CoreCompileInputs.cache
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\obj\Debug\net6.0\Solid3.dll
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\obj\Debug\net6.0\refint\Solid3.dll
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\obj\Debug\net6.0\Solid3.pdb
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\obj\Debug\net6.0\Solid3.genruntimeconfig.cache
+C:\Users\45ksu\Desktop\ООП\ДЗ8\Solid3\obj\Debug\net6.0\ref\Solid3.dll
